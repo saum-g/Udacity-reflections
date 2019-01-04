@@ -1,13 +1,13 @@
-What happens when you initialize a repository?
-
-	git repositroy with 0 commits is made and .git file is added
-
-Why do you need to do it?
+What happens when you initialize a repository?Why do you need to do it?
 
 
-How is the staging area different from the working directory and the repository?
 
-What value do you think it offers?
+	git repositroy with 0 commits is made and .git file is added. So that changes can be tracked
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	It stores the files which will be added to a commit together. It helps keep logically related files together.
+
 
 
 How can you use the staging area to make sure you have one commit per logical
